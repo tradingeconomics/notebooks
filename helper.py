@@ -28,3 +28,13 @@ def plot_multi(data, cols=None, spacing=.1, **kwargs):
 
     ax.legend(lines, labels, loc='lower right', bbox_to_anchor=(1, 1))
     return ax
+
+def get_api_key():
+    import configparser as cp
+    import os
+    
+    config_file = os.path.abspath(os.path.join(os.path.dirname('__file__'), '..', 'tradingeconomics.cfg'))
+
+    cfg = cp.ConfigParser()
+    cfg.read(config_file)
+    return cfg['API']['key']
