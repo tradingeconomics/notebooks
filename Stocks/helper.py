@@ -31,7 +31,6 @@ def plot_multi(data, cols=None, spacing=.1, **kwargs):
 
 def get_api_key():
     import configparser as cp
-
     cfg = cp.ConfigParser()
     cfg.read('tradingeconomics.cfg')
     return cfg['API']['key']
