@@ -15,12 +15,16 @@ The Trading Economics Jupyter Hub is a web-based interactive development environ
 
 ![Alt Text](https://i0.wp.com/neptune.ai/wp-content/uploads/jupyter-dash.gif)
 
+
+
 ## Local Development
 
 Users also have the choice to fork and clone this repository into your local computer. Be aware that if you just clone it you will not be able to push changes into our master branch. Thus forking is probably better as it allows you to add new files and push changes. Consider the jupyter:jupyer key used in our examples is set to only work in our web based interface. For some datasets using guest:guest can work. But the best path is for you to signup at https://developer.tradingeconomics.com/ to get your own API key.
 
 
-## Beyond Python
+
+
+## API
 
 Dont like Python? We got you covered as the Trading Economics API is also available for other programming languages. Learn more at https://github.com/tradingeconomics/tradingeconomics 
 
