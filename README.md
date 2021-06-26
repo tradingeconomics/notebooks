@@ -10,17 +10,13 @@ Trading Economics is a gateway to 20 million indicators from 196 countries. You 
 
 You have two alternatives:
 
-You can Register for free at http://jupyter.tradingeconomics.com/, the Trading Economics web-based interactive development environment for Jupyter notebooks, code, and data. Users also have the choice to clone or fork this repository if you want to preserve your changes. Our JupyerLab lets you try our examples. You can also create and store your notebooks in the cloud. And you can share notebooks with your coleagues. This gets you started very quikly without the need to install anything in your computer. It also sets you up with a special API access gateway that lets you access many of our premium datasets.
+Register for free at http://jupyter.tradingeconomics.com/, the Trading Economics web-based interactive development environment for Jupyter notebooks, code, and data. Our JupyerLab lets you try our examples. You can also create and store your notebooks in the cloud. And you can share notebooks with your coleagues. This gets you started very quikly without the need to install anything in your computer. It also sets you up with a special API access gateway that lets you access many of our premium datasets.
 
 
-As an alternative, you can either clone our repository from GitHub to your local computer. Be aware that you will not be able to push changes into our master
-Or you can fork our repository and pull it locally. Forking is probably better as it allows you to add new files and push changes.
-Consider that you need to register for an API key as the jupyter:jupyer key is set to only work in our web based interface. For some data sets using guest:guest can work.
+Users also have the choice to fork and clone this repository into your local computer. Be aware that if you just clone it you will not be able to push changes into our master branch. Thus forking is probably better as it allows you to add new files and push changes. Consider the jupyter:jupyer key used in our examples is set to only work in our web based interface. For some datasets using guest:guest can work. But the best path is for you to signup at https://developer.tradingeconomics.com/ to get your own API key.
 
 
-## More
-
-The Trading Economics API is also available for other programming languages. 
+The Trading Economics API and its data is also available for other programming languages. 
 Learn more at https://github.com/tradingeconomics/tradingeconomics 
 
 
