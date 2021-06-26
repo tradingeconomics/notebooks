@@ -11,10 +11,6 @@ Register for **free** at http://jupyter.tradingeconomics.com/, a web-based inter
 ![Alt Text](https://docs.microsoft.com/en-us/azure/cosmos-db/media/cosmosdb-jupyter-notebooks/cosmos-notebooks-overview.png)
 
 
-![Alt Text](https://i0.wp.com/neptune.ai/wp-content/uploads/jupyter-dash.gif)
-
-
-
 ## Local Development
 
 Users also have the choice to fork and clone this repository into their local computer. Be aware that if you just clone it you will not be able to push changes into our master branch. Thus forking is probably better as it allows you to add new files and push changes. Consider the jupyter:jupyer key used in our examples is set to only work in our web-based interface. For some datasets using guest:guest can work. But the best path is for you to signup at https://developer.tradingeconomics.com/ to get your own API key.
@@ -26,6 +22,8 @@ Users also have the choice to fork and clone this repository into their local co
 
 Dont like Python? We got you covered as the Trading Economics API is also available for other programming languages. 
 Learn more about our API at https://github.com/tradingeconomics/tradingeconomics 
+
+
 
 # About us
 Trading Economics is a gateway to 20 million indicators from 196 countries. You get free access to datasets from the Worldbank, the United Nations, the Federal Reserve, the EUROSTAT, and much more.  Trading Economics also provides its subscribers with a near real-time economic calendar updated 24 hours a day, historical data time series sourced recently and directly from national statistics offices, quotes for thousands of financial markets, and active support. TradingEconomics.com has received more than 900 million page views from more than 200 countries.
