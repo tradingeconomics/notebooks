@@ -7,7 +7,7 @@ Trading Economics is a gateway to 20 million indicators from 196 countries. You 
 You have 3 alternatives to get started:
 
 
-## Register for **free** at http://jupyter.tradingeconomics.com/
+## Trading Economics Jupyter Hub
 
 Register for **free** at http://jupyter.tradingeconomics.com/, a web-based interactive development environment that gets you started very quickly without the need to install any software in your computer. Our Jupyer Lab lets you try the examples shown above. You can also create, store and share your own notebooks with your colleagues. Our web interface also sets you up with a special API access key that unlocks many of our premium datasets.
 
