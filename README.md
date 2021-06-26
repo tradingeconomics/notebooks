@@ -9,7 +9,7 @@ Register for **free** at http://jupyter.tradingeconomics.com/, a web-based inter
 
 
 ![Alt Text](https://docs.microsoft.com/en-us/azure/cosmos-db/media/cosmosdb-jupyter-notebooks/cosmos-notebooks-overview.png)
-
+src: Microsoft
 
 ## Local Development
 
