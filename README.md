@@ -1,7 +1,7 @@
 # Trading Economics Notebooks
 
 The Trading Economics Python Jupyter Notebooks showcase examples on how you can easily interact with our data to make interesting data findings and insights. 
-Trading Economics is a gateway to 20 million indicators from 196 countries. You get free access to datasets from the Worldbank, the United Nations, the Federal Reserve, the EUROSTAT, and much more.  Trading Economics also provides its subscribers with a near real-time economic calendar updated 24 hours a day, historical data time series sourced recently and directly from national statistics offices, quotes for thousands of financial markets, and active support. The Trading Economics API is also available for other programming languages. Learn more at https://github.com/tradingeconomics/tradingeconomics 
+Trading Economics is a gateway to 20 million indicators from 196 countries. You get free access to datasets from the Worldbank, the United Nations, the Federal Reserve, the EUROSTAT, and much more.  Trading Economics also provides its subscribers with a near real-time economic calendar updated 24 hours a day, historical data time series sourced recently and directly from national statistics offices, quotes for thousands of financial markets, and active support. 
 
 
 # Getting Started
@@ -21,5 +21,10 @@ Or you can fork our repository and pull it locally. Forking is probably better a
 Consider that you need to register for an API key as the jupyter:jupyer key is set to only work in our web based interface. For some data sets using guest:guest can work.
 
 `git clone https://github.com/tradingeconomics/notebooks`
+
+# More
+
+The Trading Economics API is also available for other programming languages. 
+Learn more at https://github.com/tradingeconomics/tradingeconomics 
 
 
