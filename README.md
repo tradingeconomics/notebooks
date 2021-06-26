@@ -18,7 +18,7 @@ Register for free at http://jupyter.tradingeconomics.com/ with your github accou
 
 You can either clone our repository from GitHub to your local computer. Be aware that you will not be able to push changes into our master
 Or you can fork our repository and pull it locally. Forking is probably better as it allows you to add new files and push changes.
-Consider that you need to register for an API key as the jupyter key is set to only work in our web based interface.
+Consider that you need to register for an API key as the jupyter:jupyer key is set to only work in our web based interface. For some data sets using guest:guest can work.
 
 `git clone https://github.com/tradingeconomics/notebooks`
 
