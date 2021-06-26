@@ -4,14 +4,14 @@ The Trading Economics Notebooks GitHub repository showcases examples on how you 
 Trading Economics is a gateway to 20 million indicators from 196 countries. You get free access to datasets from the Worldbank, the United Nations, the Federal Reserve, the EUROSTAT, and much more.  Trading Economics also provides its subscribers with a near real-time economic calendar updated 24 hours a day, historical data time series sourced recently and directly from national statistics offices, quotes for thousands of financial markets, and active support. 
 
 
-You have 3 alternatives to get started
+You have 3 alternatives to get started:
 
 
 ## Jupyter Hub
 
-The Trading Economics Jupyter Hub is a web-based interactive development environment for python, notebooks, code, and data. Our Jupyer Lab lets you try the examples shown above. This gets you started very quikly without the need to install any software in your computer. You caln also create, store and share your own notebooks with your Coleagues. Our web interface also sets you up with a special API access key that unlocks many of our premium datasets.
+**Register for free at** http://jupyter.tradingeconomics.com/, a web-based interactive development environment for python, notebooks, code, and data. Our Jupyer Lab lets you try the examples shown above. This gets you started very quikly without the need to install any software in your computer. You caln also create, store and share your own notebooks with your Coleagues. Our web interface also sets you up with a special API access key that unlocks many of our premium datasets.
 
-**Register for free at** http://jupyter.tradingeconomics.com/
+
 
 ![Alt Text](https://i0.wp.com/neptune.ai/wp-content/uploads/jupyter-dash.gif)
 
