@@ -8,7 +8,7 @@ Trading Economics is a gateway to 20 million indicators from 196 countries. You 
 ## Getting Started
 
 
-You have two alternativs:
+You have two alternatives:
 
 You can Register for free at http://jupyter.tradingeconomics.com/, the Trading Economics web-based interactive development environment for Jupyter notebooks, code, and data. Users also have the choice to clone or fork this repository if you want to preserve your changes. Our JupyerLab lets you try our examples. You can also create and store your notebooks in the cloud. And you can share notebooks with your coleagues. This gets you started very quikly without the need to install anything in your computer. It also sets you up with a special API access gateway that lets you access many of our premium datasets.
 
