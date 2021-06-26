@@ -11,7 +11,7 @@ You have 3 alternatives to get started
 
 The Trading Economics Jupyter Hub is a web-based interactive development environment for python, notebooks, code, and data. Our Jupyer Lab not only lets you try the examples shown above but one cal also create and store and share notebooks. This gets you started very quikly without the need to install any software in your computer. It also sets you up with a special API access key gateway that lets you access many of our premium datasets.
 
-**Register for free at** http://jupyter.tradingeconomics.com/, 
+**Register for free at** http://jupyter.tradingeconomics.com/
 
 ![Alt Text](https://i0.wp.com/neptune.ai/wp-content/uploads/jupyter-dash.gif)
 
