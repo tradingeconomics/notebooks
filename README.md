@@ -5,7 +5,7 @@ The Trading Economics Notebooks GitHub repository showcases examples on how you 
 
 ## Trading Economics Jupyter Hub
 
-Register for **free** at http://jupyter.tradingeconomics.com/, a web-based interactive development environment that gets you started very quickly without the need to install any software in your computer. Our Jupyter Lab lets you try the examples shown above but not only. You can also create, store and share your own notebooks with your colleagues. Our web interface also sets you up with a special API access key that unlocks many of our premium datasets.
+Register for **free** at http://jupyter.tradingeconomics.com/, a web-based interactive development environment that gets you started very quickly without the need to install any software in your computer. Our Jupyter Lab lets you try the examples shown above with a special API access key that unlocks many of our premium datasets. You can also create, store and share your own notebooks with your colleagues. Consider that our examples are read-only but you can edit them and save them as as new files in your root home folder.
 
 
 ![Alt Text](https://docs.microsoft.com/en-us/azure/cosmos-db/media/cosmosdb-jupyter-notebooks/cosmos-notebooks-overview.png) source: Microsoft
