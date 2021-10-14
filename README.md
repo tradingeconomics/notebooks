@@ -9,7 +9,7 @@ Register for **free** at http://jupyter.tradingeconomics.com/, a web-based inter
 
 ## Going further
 
-Fork this repository if you want to store your changes and experiment without affecting the original project. Then pull your forked repository into your Jupyter instance. ``` git clone https://github.com/{YourGitHubUsername}/notebooks ```
+Fork this repository if you want to store your changes and experiment without affecting the original project. Then pull your forked repository into our Jupyter instance or into your local computer. Consider the special key jupyter:jupyter unlocks most of the data but is set to only work in our web-based interface. ``` git clone https://github.com/{YourGitHubUsername}/notebooks ```
 
 ![Alt Text](https://camo.githubusercontent.com/947ed1dba840e1c2b6605bcf1507c1a4e1b9642be3696323ff387cbc15e70edf/687474703a2f2f692e737461636b2e696d6775722e636f6d2f6c72346d6c2e706e67)
 
