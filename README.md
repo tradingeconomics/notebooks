@@ -1,6 +1,6 @@
 # Trading Economics Notebooks
 
-The Trading Economics Notebooks GitHub repository showcases examples on how you can easily interact with our data to make interesting data findings and insights. You have 3 alternatives to get started:
+The Trading Economics Notebooks GitHub repository showcases examples on how you can easily interact with our data to make interesting data findings and insights.
 
 
 ## Getting started
