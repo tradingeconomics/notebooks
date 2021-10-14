@@ -10,10 +10,11 @@ Fork this repository to experiment with our examples while being able to save yo
 ![Alt Text](https://camo.githubusercontent.com/947ed1dba840e1c2b6605bcf1507c1a4e1b9642be3696323ff387cbc15e70edf/687474703a2f2f692e737461636b2e696d6775722e636f6d2f6c72346d6c2e706e67)
 
 
-## Why should your use our remote Jupyter Instance
+## About our Jupyter Lab 
 
 Our Jupyter Lab lets you try the examples shown above with a special API access key that unlocks many of our premium datasets when it used from our remote server. You can create, store and share your own notebooks with your colleagues.  
 
+![Alt Text](https://docs.microsoft.com/en-us/azure/cosmos-db/media/cosmosdb-jupyter-notebooks/cosmos-notebooks-overview.png) source: Microsoft
 
 ## Local Development
 
@@ -44,6 +45,4 @@ Do you have any suggestion? Please let us know
 https://tradingeconomics.com/contact.aspx?subject=notebooks
 
 
-## Screenshots
 
-![Alt Text](https://docs.microsoft.com/en-us/azure/cosmos-db/media/cosmosdb-jupyter-notebooks/cosmos-notebooks-overview.png) source: Microsoft
