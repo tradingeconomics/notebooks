@@ -3,12 +3,20 @@
 The Trading Economics Notebooks GitHub repository showcases examples on how you can easily interact with our data to make interesting data findings and insights. You have 3 alternatives to get started:
 
 
-## Trading Economics Jupyter Hub
+## Getting started
 
 Register for **free** at http://jupyter.tradingeconomics.com/, a web-based interactive development environment that gets you started very quickly without the need to install any software in your computer. Our Jupyter Lab lets you try the examples shown above with a special API access key that unlocks many of our premium datasets. You can also create, store and share your own notebooks with your colleagues. Consider that our examples are read-only but you can edit them and save them as as new files in your root home folder.
 
+## Going further
 
-![Alt Text](https://docs.microsoft.com/en-us/azure/cosmos-db/media/cosmosdb-jupyter-notebooks/cosmos-notebooks-overview.png) source: Microsoft
+Fork this repository if you want to store your changes and experiment without affecting the original project.
+
+![Alt Text](https://camo.githubusercontent.com/947ed1dba840e1c2b6605bcf1507c1a4e1b9642be3696323ff387cbc15e70edf/687474703a2f2f692e737461636b2e696d6775722e636f6d2f6c72346d6c2e706e67)
+
+Then pull your forked repository into your Jupyter instance.
+
+``` git clone https://github.com/{YourGitHubUsername}/notebooks ```
+
 
 ## Local Development
 
@@ -37,3 +45,8 @@ https://tradingeconomics.com/about-te.aspx
 Do you have any suggestion? Please let us know
 
 https://tradingeconomics.com/contact.aspx?subject=notebooks
+
+
+## Screenshots
+
+![Alt Text](https://docs.microsoft.com/en-us/azure/cosmos-db/media/cosmosdb-jupyter-notebooks/cosmos-notebooks-overview.png) source: Microsoft
