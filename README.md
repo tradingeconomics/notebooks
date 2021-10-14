@@ -18,6 +18,8 @@ Then pull your forked repository into your Jupyter instance.
 ``` git clone https://github.com/{YourGitHubUsername}/notebooks ```
 
 
+
+
 ## Local Development
 
 Users also have the choice to fork and clone this repository into their local computer. Be aware that if you just clone it you will not be able to push changes into our master branch. Thus forking is probably better as it allows you to add new files and push changes. Consider the jupyter:jupyer key used in our examples is set to only work in our web-based interface. For some datasets using guest:guest can work. But the best path is for you to signup at https://developer.tradingeconomics.com/ to get your own API key.
