@@ -7,7 +7,7 @@ The Trading Economics Notebooks GitHub repository showcases examples on how you 
 
 Fork this repository to experiment with our examples while being able to save your changes. Then register for **free** at http://jupyter.tradingeconomics.com/, a web-based interactive development environment that gets you started very quickly without the need to install any software in your computer. Consider that our examples are read-only but you can edit them and save them as as new files in your root home folder. To preserve your changes please git clone your forked repository into our Jupyter instance. 
 
-![Alt Text](https://camo.githubusercontent.com/947ed1dba840e1c2b6605bcf1507c1a4e1b9642be3696323ff387cbc15e70edf/687474703a2f2f692e737461636b2e696d6775722e636f6d2f6c72346d6c2e706e67)
+![Alt Text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
 
 ## About our Jupyter Lab 
