@@ -5,16 +5,18 @@ The Trading Economics Notebooks GitHub repository showcases examples on how you 
 
 ## Getting started
 
-Fork this repository to experiment with our examples while being able to save your changes. Then register for **free** at http://jupyter.tradingeconomics.com/, a web-based interactive development environment that gets you started very quickly without the need to install any software in your computer. Consider that our examples are read-only but you can edit them and save them as as new files in your root home folder. To preserve your changes please git clone your forked repository into our Jupyter instance. 
+First, fork this repository to experiment with our examples while being able to save your changes. 
 
 ![Alt Text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
+Then register for **free** at 
 
-## About our Jupyter Lab 
+http://jupyter.tradingeconomics.com/
 
-Our Jupyter Lab lets you try the examples shown above with a special API access key that unlocks many of our premium datasets when it used from our remote server. You can create, store and share your own notebooks with your colleagues.  
+The Trading Economics Jupyter Lab a web-based interactive development environment that gets you started very quickly without the need to install any software in your computer. Our Jupyter Lab lets you try the examples shown above with a special API access key that unlocks many of our premium datasets when it used from our remote server. You can create, store and share your own notebooks with your colleagues.  Consider that our examples are read-only but you can edit them and save them as as new files. To preserve your changes please git clone your forked repository into our Jupyter instance. 
 
 ![Alt Text](https://docs.microsoft.com/en-us/azure/cosmos-db/media/cosmosdb-jupyter-notebooks/cosmos-notebooks-overview.png) source: Microsoft
+
 
 ## Local Development
 
@@ -22,6 +24,8 @@ Users also have the choice to fork and clone this repository into their local co
 
 
 ``` git clone https://github.com/tradingeconomics/notebooks ```
+
+
 
 ## Open API
 
@@ -32,10 +36,12 @@ Learn more about our API at https://tradingeconomics.com/api/
 Get examples in other programming languages at https://github.com/tradingeconomics/tradingeconomics 
 
 
+
 ## About us
 Trading Economics is a gateway to 20 million indicators from 196 countries. You get free access to datasets from the Worldbank, the United Nations, the Federal Reserve, the EUROSTAT, and much more.  Trading Economics also provides its subscribers with a near real-time economic calendar updated 24 hours a day, historical data time series sourced recently and directly from national statistics offices, quotes for thousands of financial markets, and active support. TradingEconomics.com has received more than 900 million page views from more than 200 countries.
 
 https://tradingeconomics.com/about-te.aspx
+
 
 
 ## Support
