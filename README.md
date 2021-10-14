@@ -5,11 +5,11 @@ The Trading Economics Notebooks GitHub repository showcases examples on how you 
 
 ## Getting started
 
-First, fork this repository to experiment with our examples while being able to save your changes. 
+First, login to Github and fork this repository to experiment with our examples while being able to save your changes. 
 
 ![Alt Text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
-Then register for **free** at 
+Then login with your github account at **free** at 
 
 http://jupyter.tradingeconomics.com/
 
