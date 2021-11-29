@@ -21,7 +21,7 @@ While many examples can be run with an anonymous guest:guest key, the best path 
 
 ## Other programming languages
 
-The Trading Economics API is also available for other programming languages. Providing several request methods to query our databases, with samples available in different programming languages, it is the best way to export data in XML, CSV or JSON format and to subscribe to updates in real time.
+The Trading Economics API is also available for other programming languages. Providing several request methods to query our databases, with samples available in different programming languages, is the best way to export data in XML, CSV or JSON format and to subscribe to updates in real time.
 
 
 API Documentation: 
@@ -40,7 +40,7 @@ https://tradingeconomics.com/api/
 
 
 ## About us
-TradingEconomics.com has received more than 1 billion million page views from more than 200 countries.
+With more than 1 billion million page views from more than 200 countries TradingEconomics.com has become a reference for quality economic and financial markets data. Learn more at
 https://tradingeconomics.com/about-te.aspx
 
 
