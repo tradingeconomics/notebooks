@@ -5,7 +5,7 @@ The Trading Economics Python Jupyter Notebooks GitHub repository showcases examp
 
 ## Getting started
 
-Users also have the choice to fork or clone this repository into their local computer. Be aware that if you just clone it you will not be able to push changes into our master branch. Thus forking is probably better as it allows you to add new files and push changes. 
+Users also have the choice to fork or clone this repository into their local computer. Be aware that if you just clone the repository you will not be able to push changes into our master branch. Thus forking is probably better as it allows you to add new files and push changes. 
 
 ![Alt Text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
@@ -13,7 +13,7 @@ Users also have the choice to fork or clone this repository into their local com
 ``` git clone https://github.com/tradingeconomics/notebooks ```
 
 
-## Free API Key
+## Credentials
 
 While many examples can be run with a guest key, the best path is for you to signup for a free at https://developer.tradingeconomics.com/ to get your own API key. Consider, the API key guest:guest is very limited and the jupyter:jupyter key used in our examples is set to only work in some IP's. 
 
@@ -21,7 +21,7 @@ While many examples can be run with a guest key, the best path is for you to sig
 
 ## Open API
 
-Dont like Python? We got you covered as the Trading Economics API is also available for other programming languages. 
+Don't like Python? We got you covered as the Trading Economics API is also available for other programming languages. 
 Learn more about our API at https://tradingeconomics.com/api/
 Get examples in other programming languages at https://github.com/tradingeconomics/tradingeconomics 
 
@@ -36,7 +36,7 @@ https://tradingeconomics.com/about-te.aspx
 
 ## Support
 
-Do you have any suggestion? Please let us know
+Do you have any suggestions? Please let us know
 
 https://tradingeconomics.com/contact.aspx?subject=notebooks
 
