@@ -21,9 +21,11 @@ While many examples can be run with an anonymous guest:guest key, the best path 
 
 ## Don't like Python?
 
-We got you covered as the Trading Economics API is also available for other programming languages. 
-Learn more about our API at https://tradingeconomics.com/api/
-Get examples in other programming languages at https://github.com/tradingeconomics/tradingeconomics 
+We got you covered as the Trading Economics API is also available for other programming languages. Learn more about our API at: 
+
+https://tradingeconomics.com/api/
+
+https://github.com/tradingeconomics/tradingeconomics 
 
 
 
