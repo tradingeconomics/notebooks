@@ -1,6 +1,6 @@
 # Trading Economics Notebooks
 
-The Trading Economics Python Jupyter Notebooks GitHub repository showcases examples on how one can easily interact with our data to make interesting data findings and insights. Trading Economics is a gateway to 20 million indicators from 196 countries. Trading Economics provides its subscribers with a near real-time economic calendar updated 24 hours a day, historical data time series sourced recently and directly from national statistics offices, quotes for thousands of financial markets, and active support. With a developer account You get free access to datasets from the Worldbank, the United Nations, the Federal Reserve, the EUROSTAT, and much more.  
+The Trading Economics Python Jupyter Notebooks GitHub repository showcases examples on how one can easily interact with our data to make interesting data findings and insights. Trading Economics is a gateway to 20 million indicators from 196 countries. Trading Economics provides its subscribers with a near real-time economic calendar updated 24 hours a day, historical data time series sourced recently and directly from national statistics offices, quotes for thousands of financial markets, and active support. 
 
 
 ## Getting started
@@ -15,7 +15,7 @@ Users also have the choice to fork or clone this repository into their local com
 
 ## Credentials
 
-While many examples can be run with an anonymous guest:guest key, the best path is for you to sign up for a free developer account at https://developer.tradingeconomics.com/ to get your own API key. Dont' worry! We will never share your email information with anyone. If you do not want to register, consider, the API key guest:guest is very limited and the jupyter:jupyter key used in our examples is set to only work in some authorized workstations and IP's. 
+While many examples can be run with an anonymous guest:guest key, the best path is for you to sign up for a free developer account at https://developer.tradingeconomics.com/ to get your own API key. With a developer account one gets free access to datasets from the Worldbank, the United Nations, the Federal Reserve, the EUROSTAT, and much more.  Dont' worry! We will never share your email information with anyone. If you do not want to register, consider, the API key guest:guest is very limited and the jupyter:jupyter key used in our examples is set to only work in some authorized workstations and IP's. 
 
 
 
