@@ -1,30 +1,23 @@
 # Trading Economics Notebooks
 
-The Trading Economics Notebooks GitHub repository showcases examples on how you can easily interact with our data to make interesting data findings and insights.
+The Trading Economics Python Jupyter Notebooks GitHub repository showcases examples on how you can easily interact with our data to make interesting data findings and insights.
 
 
 ## Getting started
 
-First, login to Github and fork this repository to experiment with our examples while being able to save your changes. 
+Users also have the choice to fork or clone this repository into their local computer. Be aware that if you just clone it you will not be able to push changes into our master branch. Thus forking is probably better as it allows you to add new files and push changes. 
 
 ![Alt Text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
-Then login with your github account for **free** at 
 
-http://jupyter.tradingeconomics.com/
-
-The Trading Economics Jupyter Lab a web-based interactive development environment that gets you started very quickly without the need to install any software in your computer. Our Jupyter Lab lets you try the examples shown above with a special API access key that unlocks many of our premium datasets when it used from our remote server. You can create, store and share your own notebooks with your colleagues.  Consider that our examples are read-only but you can edit them and save them as as new files. To preserve your changes please git clone your forked repository into our Jupyter instance. 
-
-![Alt Text](https://docs.microsoft.com/en-us/azure/cosmos-db/media/cosmosdb-jupyter-notebooks/cosmos-notebooks-overview.png) source: Microsoft
-
-
-## Local Development
-
-Users also have the choice to fork and clone this repository into their local computer. Be aware that if you just clone it you will not be able to push changes into our master branch. Thus forking is probably better as it allows you to add new files and push changes. Consider the jupyter:jupyter key used in our examples is set to only work in our web-based interface. For some datasets using guest:guest can work. But the best path is for you to signup at https://developer.tradingeconomics.com/ to get your own API key.
+If you just want to clone a copy please execute 
 
 
 ``` git clone https://github.com/tradingeconomics/notebooks ```
 
+## Limitations
+
+In addition, consider the jupyter:jupyter key used in our examples is set to only work in some IP's. For some datasets using guest:guest can work. But the best path is for you to signup at https://developer.tradingeconomics.com/ to get your own API key.
 
 
 ## Open API
