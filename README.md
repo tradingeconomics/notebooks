@@ -1,6 +1,6 @@
 # Trading Economics Notebooks
 
-The Trading Economics Python Jupyter Notebooks GitHub repository showcases examples on how one can easily interact with our data to make interesting data findings and insights.
+The Trading Economics Python Jupyter Notebooks GitHub repository showcases examples on how one can easily interact with our data to make interesting data findings and insights. Trading Economics is a gateway to 20 million indicators from 196 countries. Trading Economics also provides its subscribers with a near real-time economic calendar updated 24 hours a day, historical data time series sourced recently and directly from national statistics offices, quotes for thousands of financial markets, and active support. With a developer account You get free access to datasets from the Worldbank, the United Nations, the Federal Reserve, the EUROSTAT, and much more.  
 
 
 ## Getting started
@@ -28,8 +28,7 @@ Get examples in other programming languages at https://github.com/tradingeconomi
 
 
 ## About us
-Trading Economics is a gateway to 20 million indicators from 196 countries. You get free access to datasets from the Worldbank, the United Nations, the Federal Reserve, the EUROSTAT, and much more.  Trading Economics also provides its subscribers with a near real-time economic calendar updated 24 hours a day, historical data time series sourced recently and directly from national statistics offices, quotes for thousands of financial markets, and active support. TradingEconomics.com has received more than 900 million page views from more than 200 countries.
-
+TradingEconomics.com has received more than 1 billion million page views from more than 200 countries.
 https://tradingeconomics.com/about-te.aspx
 
 
