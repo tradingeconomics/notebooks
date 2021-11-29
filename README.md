@@ -15,9 +15,9 @@ If you just want to clone a copy please execute
 
 ``` git clone https://github.com/tradingeconomics/notebooks ```
 
-## Limitations
+## Free API Key
 
-In addition, consider the jupyter:jupyter key used in our examples is set to only work in some IP's. For some datasets using guest:guest can work. But the best path is for you to signup at https://developer.tradingeconomics.com/ to get your own API key.
+While many examples can be run with a guest key, the best path is for you to signup fore free at https://developer.tradingeconomics.com/ to get your own API key. Consider, the guest:guest key is very limited and the jupyter:jupyter key used in our examples is set to only work in some IP's. 
 
 
 ## Open API
