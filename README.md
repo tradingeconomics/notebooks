@@ -1,6 +1,6 @@
 # Trading Economics Notebooks
 
-The Trading Economics Python Jupyter Notebooks GitHub repository showcases examples on how you can easily interact with our data to make interesting data findings and insights.
+The Trading Economics Python Jupyter Notebooks GitHub repository showcases examples on how one can easily interact with our data to make interesting data findings and insights.
 
 
 ## Getting started
