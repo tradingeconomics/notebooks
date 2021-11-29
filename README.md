@@ -15,7 +15,7 @@ Users also have the choice to fork or clone this repository into their local com
 
 ## Credentials
 
-While many examples can be run with a guest key, the best path is for you to signup for a free at https://developer.tradingeconomics.com/ to get your own API key. Consider, the API key guest:guest is very limited and the jupyter:jupyter key used in our examples is set to only work in some IP's. 
+While many examples can be run with an anonymous guest:guest key, the best path is for you to signup for a free developer account at https://developer.tradingeconomics.com/ to get your own API key. Consider, the API key guest:guest is very limited and the jupyter:jupyter key used in our examples is set to only work in some IP's. 
 
 
 
