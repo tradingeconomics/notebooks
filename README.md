@@ -19,17 +19,20 @@ While many examples can be run with an anonymous guest:guest key, the best path 
 
 
 
-## Don't like Python?
+## Other programming languages
 
-We got you covered as the Trading Economics API is also available for other programming languages. 
+The Trading Economics API is also available for other programming languages. Providing several request methods to query our databases, with samples available in different programming languages, it is the best way to export data in XML, CSV or JSON format and to subscribe to updates in real time.
+
+
+API Documentation: 
+
+https://docs.tradingeconomics.com
+
 
 API Github Examples: 
 
 https://github.com/tradingeconomics/tradingeconomics 
 
-API Documentation: 
-
-https://docs.tradingeconomics.com
 
 Learn more about our API at: 
 
