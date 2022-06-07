@@ -1,0 +1,111 @@
+{
+	"data": [{
+			"name": "China",
+			"ticker": "CNY",
+			"lon": 104.1954,
+			"lat": 35.8617
+		},
+		{
+			"name": "Japan",
+			"ticker": "JPY",
+			"lon": 138.2529,
+			"lat": 36.2048
+		},
+		{
+			"name": "Israel",
+			"ticker": "ILS",
+			"lon": 34.8516,
+			"lat": 31.0461
+		},
+		{
+			"name": "Malaysia",
+			"ticker": "MYR",
+			"lon": 101.9758,
+			"lat": 4.2105
+		},
+        {
+            "name": "South Korea",
+			"ticker": "KRW",
+			"lon": 127.7669,
+			"lat": 35.9078
+        },
+        {
+			"name": "Armenia",
+			"ticker": "AMD",
+			"lon": 45.0382,
+			"lat": 40.0691
+		},
+		{
+			"name": "Azerbaijan",
+			"ticker": "AZN",
+			"lon": 47.5769,
+			"lat": 40.1431
+		},
+        {
+            "name": "Bahrain",
+			"ticker": "BHD",
+			"lon": 50.5577,
+			"lat": 26.0667
+        },
+        {
+            "name": "Bangladesh",
+			"ticker": "BDT",
+			"lon": 90.3563,
+			"lat": 23.6850
+        },
+        {
+			"name": "Georgia",
+			"ticker": "GEL",
+			"lon": 82.9001,
+			"lat": 32.1656
+		},
+		{
+			"name": "Hong Kong",
+			"ticker": "HKD",
+			"lon": 114.1694,
+			"lat": 22.3193
+		},
+        {
+            "name": "Kazakhstan",
+			"ticker": "KZT",
+			"lon": 66.9237,
+			"lat": 48.0196
+        },
+        {
+            "name": "Kyrgyzstan",
+			"ticker": "KGS",
+			"lon": 74.7661,
+			"lat": 41.2044
+        },
+        {
+			"name": "Macau",
+			"ticker": "MOP",
+			"lon": 113.5439,
+			"lat": 22.1987
+		},
+		{
+			"name": "Singapore",
+			"ticker": "SGD",
+			"lon": 103.8198,
+			"lat": 1.3521
+		},
+        {
+            "name": "Taiwan",
+			"ticker": "TWD",
+			"lon": 120.9605,
+			"lat": 23.6978
+        },
+		{
+			"name": "Tajikistan",
+			"ticker": "TJS",
+			"lon": 71.2761,
+			"lat": 38.8610
+		},
+        {
+            "name": "Thailand",
+			"ticker": "THB",
+			"lon": 100.9925,
+			"lat": 15.8700
+        }
+	]
+}
