@@ -1,6 +1,7 @@
 FROM jupyter/scipy-notebook:85f615d5cafa
-WORKDIR /home/jovyan/tradingeconomics
-RUN git clone https://github.com/tradingeconomics/notebooks /home/jovyan/tradingeconomics
+RUN git clone https://github.com/tradingeconomics/notebooks
+RUN pip install tradingeconomics plotly mplfinance
+ENV api=guest:guest
 
 # Build
 # docker build -t tradingeconomics/notebooks:latest .
