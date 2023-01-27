@@ -8,7 +8,7 @@ ENV apikey=guest:guest
 # docker build -t tradingeconomics/notebooks:latest .
 
 # run
-# docker run --rm --name te-notebooks -p 8888:8888  -e apikey='guest:guest' tradingeconomics/notebooks:latest  start.sh jupyter lab --LabApp.token=''
+# docker run --rm --name te-notebooks -p 8888:8888  -e apikey='guest:guest' -v "${PWD}":/home/jovyan/work tradingeconomics/notebooks:latest  start.sh jupyter lab --LabApp.token=''
 
 # push
 # docker push tradingeconomics/notebooks:latest
