@@ -51,7 +51,7 @@ jupyter lab
 
 ## Running with Docker
 
-Trading Economics Notebooks Docker packages everything you need. Please swap 'guest:guest' with your key and consider that only notebooks into the work folder will be stored.
+Trading Economics Notebooks Docker packages everything you need to run some data science and analytics. Please swap 'guest:guest' with your key and consider that only notebooks into the work folder will be stored.
 
 ```bash
 docker run --rm --name te-notebooks -p 8888:8888  -e apikey='guest:guest' -v "${PWD}":/home/jovyan/work tradingeconomics/notebooks:latest  start.sh jupyter lab --LabApp.token=''
