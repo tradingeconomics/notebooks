@@ -9,53 +9,69 @@ Users also have the choice to fork or clone this repository into their local com
 
 ![Alt Text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
+```bash
+git clone https://github.com/tradingeconomics/notebooks
+```
+#
 
-``` git clone https://github.com/tradingeconomics/notebooks ```
+## Installation
 
+JupyterLab allows users to do data science using a web-based user interface.
+
+```bash
+pip install jupyterlab
+```
 
 ## Credentials
 
 While many examples can be run with an anonymous guest:guest key, the best path is for you to sign up for a free developer account at https://developer.tradingeconomics.com/ to get your own API key. With a developer account one gets free access to datasets from the Worldbank, the United Nations, the Federal Reserve, the EUROSTAT, and much more.  Dont' worry! We will never share your email information with anyone. If you do not want to register, consider, the API key guest:guest is very limited.
 
-Please set your keys as Environment Variables
 
-Linux
+Protect your credentials! Please set your keys as environment variables before you launch your application.
 
 ```bash
+# linux / mac 
 export apikey='guest:guest'
 ```
-Windows
 
 ```bash
+# windows
 set apikey='guest:guest'
 ```
 #
 
-
-## Other programming languages
-
-The Trading Economics API is also available for other programming languages. Providing several request methods to query our databases, with samples available in different programming languages, is the best way to export data in XML, CSV or JSON format and to subscribe to updates in real time.
+## Running
 
 
-API Documentation: 
+```bash
+jupyter lab
+```
+
+#
+
+## Running with Docker
+
+Trading Economics Notebooks Docker packages everything you need. Please swap 'guest:guest' with your key.
+
+```bash
+docker run --rm --name te-notebooks -p 8888:8888  -e apikey='guest:guest' tradingeconomics/notebooks:latest  start.sh jupyter lab --LabApp.token=''
+```
+
+#
+
+## Documentation: 
 
 https://docs.tradingeconomics.com
 
 
-API Github Examples: 
+## Examples: 
 
 https://github.com/tradingeconomics/tradingeconomics 
 
 
-Learn more about our API at: 
+## Learn more
 
 https://tradingeconomics.com/api/
-
-
-## About us
-With more than 1 billion million page views from more than 200 countries TradingEconomics.com has become a reference for quality economic and financial markets data. Learn more at
-https://tradingeconomics.com/about-te.aspx
-
 
 
 ## Support
