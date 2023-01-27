@@ -1,7 +1,8 @@
 FROM jupyter/scipy-notebook:85f615d5cafa
 RUN git clone https://github.com/tradingeconomics/notebooks
-RUN pip install tradingeconomics plotly mplfinance
-ENV api=guest:guest
+RUN pip install --upgrade tradingeconomics
+RUN pip install plotly mplfinance
+ENV apikey=guest:guest
 
 # Build
 # docker build -t tradingeconomics/notebooks:latest .
