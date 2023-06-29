@@ -7,8 +7,6 @@ The Trading Economics Python Jupyter Notebooks GitHub repository showcases examp
 
 Users also have the choice to fork or clone this repository into their local computer. Be aware that if you just clone the repository you will not be able to push changes into our master branch. Thus forking is probably better as it allows you to add new files and push changes. 
 
-![Alt Text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
-
 ```bash
 git clone https://github.com/tradingeconomics/notebooks
 ```
