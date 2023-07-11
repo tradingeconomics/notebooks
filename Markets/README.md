@@ -1,5 +1,5 @@
 # Markets
-* A list of the notebooks in this page and its google colab link
+* A list of the notebooks in markets page and their corresponding google colab links
     * [00 - Markets Bollinger Band](https://colab.research.google.com/github/tradingeconomics/notebooks/blob/main/Markets/TE_markets_bollinger_band.ipynb)
     * [01 - Markets Correlation Matrix](https://colab.research.google.com/github/tradingeconomics/notebooks/blob/main/Markets/TE_markets_correlation_matrix.ipynb)
     * [02 - Markets Directional Moving Index](https://colab.research.google.com/github/tradingeconomics/notebooks/blob/main/Markets/TE_markets_directional_moving%20_index.ipynb)

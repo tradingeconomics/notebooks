@@ -1,5 +1,5 @@
 # Commodities
-* A list of the notebooks in this page and its google colab link
+* A list of the notebooks in commodities page and their corresponding google colab links
     * [00 - Comtrade Crude Oil Imports](https://colab.research.google.com/github/tradingeconomics/notebooks/blob/main/Commodities/COMTRADE_crude_oil_imports.ipynb)
     * [01 - Build A Commodity Index](https://colab.research.google.com/github/tradingeconomics/notebooks/blob/main/Commodities/TE_Building%20_a_Comodity_Index.ipynb)
     * [02 - Covid Commodities](https://colab.research.google.com/github/tradingeconomics/notebooks/blob/main/Commodities/TE_COVID_Commodities.ipynb)

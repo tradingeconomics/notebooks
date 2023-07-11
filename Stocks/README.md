@@ -1,5 +1,5 @@
 # Stocks
-* A list of the notebooks in this page and its google colab link
+* A list of the notebooks in stocks page and their corresponding google colab links
     * [00 - Stocks Amazon Alibaba](https://colab.research.google.com/github/tradingeconomics/notebooks/blob/main/Stocks/Amazon_Alibaba.ipynb)
     * [01 - Apple Historical Forecast](https://colab.research.google.com/github/tradingeconomics/notebooks/blob/main/Stocks/Apple_Historical_Forecast.ipynb)
     * [02 - Earnings Calendar](https://colab.research.google.com/github/tradingeconomics/notebooks/blob/main/Stocks/EarningsCalendar.ipynb)
