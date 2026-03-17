@@ -22,7 +22,9 @@ pip install jupyterlab
 
 ## Credentials
 
-While many examples can be run with an anonymous guest:guest key, the best path is for you to sign up for a free developer account at https://developer.tradingeconomics.com/ to get your own API key. With a developer account one gets free access to datasets from the Worldbank, the United Nations, the Federal Reserve, the EUROSTAT, and much more.  Dont' worry! We will never share your email information with anyone. If you do not want to register, consider, the API key guest:guest is very limited.
+While many examples can be run with an anonymous guest:guest key, the best path is for you to get your own API key. 
+
+https://tradingeconomics.com/api/pricing.aspx
 
 
 Protect your credentials! Please set your keys as environment variables before you launch your application.
