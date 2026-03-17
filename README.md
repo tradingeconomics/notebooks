@@ -24,7 +24,7 @@ pip install jupyterlab
 
 While many examples can be run with an anonymous guest:guest key, the best path is for you to get your own API key. 
 
-https://tradingeconomics.com/api/pricing.aspx
+[https://tradingeconomics.com/api/pricing.aspx](https://tradingeconomics.com/api/)
 
 
 Protect your credentials! Please set your keys as environment variables before you launch your application.
