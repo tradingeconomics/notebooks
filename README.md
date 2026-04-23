@@ -22,7 +22,7 @@ pip install jupyterlab
 
 ## Credentials
 
-While many examples can be run with an anonymous guest:guest key, the best path is for you to [Get your own API key](https://tradingeconomics.com/api/). 
+Please subscribe to a plan at https://tradingeconomics.com/api/pricing.aspx to get an API key.
 
 
 
@@ -31,12 +31,12 @@ Protect your credentials! Please set your keys as environment variables before y
 
 ```bash
 # linux / mac 
-export apikey='guest:guest'
+export apikey=""
 ```
 
 ```bash
 # windows
-set apikey='guest:guest'
+set apikey=""
 ```
 #
 
@@ -51,10 +51,10 @@ jupyter lab
 
 ## Running with Docker
 
-Trading Economics Notebooks Docker packages everything you need to run some data science and analytics. Please swap 'guest:guest' with your key and consider that only notebooks into the work folder will be stored.
+Trading Economics Notebooks Docker packages everything you need to run data science and analytics. Please subscribe to a plan at https://tradingeconomics.com/api/pricing.aspx to get an API key.
 
 ```bash
-docker run --rm --name te-notebooks -p 8888:8888  -e apikey='guest:guest' -v "${PWD}":/home/jovyan/work tradingeconomics/notebooks:latest  start.sh jupyter lab --LabApp.token=''
+docker run --rm --name te-notebooks -p 8888:8888  -e apikey="" -v "${PWD}":/home/jovyan/work tradingeconomics/notebooks:latest  start.sh jupyter lab --LabApp.token=''
 ```
 
 #
